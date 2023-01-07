@@ -6,13 +6,13 @@ import News from './components/News';
 import Footer from './components/Footer';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import LoadingBar from 'react-top-loading-bar';
-import generalNews from './NewsRoom/General.json';
-import businessNews from './NewsRoom/Business.json';
-import entertainmentNews from './NewsRoom/Entertainment.json';
-import healthNews from './NewsRoom/Health.json';
-import scienceNews from './NewsRoom/Science.json';
-import sportsNews from './NewsRoom/Sports.json';
-import technologyNews from './NewsRoom/Technology.json';
+import generalNews from './NewsRoom/general.json';
+import businessNews from './NewsRoom/business.json';
+import entertainmentNews from './NewsRoom/entertainment.json';
+import healthNews from './NewsRoom/health.json';
+import scienceNews from './NewsRoom/science.json';
+import sportsNews from './NewsRoom/sports.json';
+import technologyNews from './NewsRoom/technology.json';
 
 
 export default class App extends Component {

@@ -1,12 +1,16 @@
+body{
+  background: #131416;
+}
 p{
   font-size: 12px
 }
 .card{
   word-break: break-word;
+  box-shadow: 0px 0px 6px #c0c0c0;
 }
 .card-imgage{
-  height: 145px;
-  object-fit: fill;
+  height: 180px;
+  object-fit: cover;
 }
 .card-title{
   font-size: 14px;
@@ -34,4 +38,7 @@ p{
   background: #a3a4a5;
   text-transform: uppercase;
   line-height: 20px;
+}
+h4{
+  color: #e7e6e4;
 }
