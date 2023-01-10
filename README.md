@@ -8,4 +8,4 @@ Here is a look of developed project
 Features
 1. Developed this SPA on react class based components.
 2. Using apiKey from https://newsapi.org/.
-3. `react-top-loading-bar` react library to provide red colour top bar animation while visiting on any category to other.
+3. The news are updated daily. 
